@@ -1,0 +1,5 @@
+# BRCA Report (Work in Progress) v0.0.1
+
+The method of the BRCA Report consists of two steps: generating a BRCA1/2 variant database from public sources, and comparing the individual variants to the database. Hence, the input data are the BRCA Exchange database, the annotated variants from [2], and the VCF of the individual or studied population. The desired output are files containing the variants that are present in both the public database and the individual, and those variants that are found in the individual but not in the public database. The main process of this pipeline is to change and match the variants descriptive ID in HGVS format to rsID or other stable and unique ID. Moreover, other important features are extracted such as the pathogenicity given by an expert (from BRCA Exchange) and the pathogenicity estimated by SIFT and PolyPhen.
+
+<img width="960" alt="BRCA-report" src="https://user-images.githubusercontent.com/17606692/142474542-d7c5cab6-e8fa-4ba0-a43f-ff3b2f23bf40.png">

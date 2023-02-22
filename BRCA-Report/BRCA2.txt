@@ -1,0 +1,273 @@
+NM_000059.3(BRCA2):c.1114A>C (p.Asn372His)	rs144848	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.3396A>G (p.Lys1132=)	rs1801406	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.3807T>C (p.Val1269=)	rs543304	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.-26G>A	rs1799943	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.7242A>G (p.Ser2414=)	rs1799955	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.7469T>C (p.Ile2490Thr)	rs11571707	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.10234A>G (p.Ile3412Val)	rs1801426	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.865A>C (p.Asn289His)	rs766173	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.1365A>G (p.Ser455=)	rs1801439	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.2229T>C (p.His743=)	rs1801499	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.2971A>G (p.Asn991Asp)	rs1799944	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.1910-51G>T	rs11571651	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.8851G>A (p.Ala2951Thr)	rs11571769	BRCA2	Benign	Benign/Little_Clinical_Significance
+0	32905219	0	0	Not
+NM_000059.3(BRCA2):c.5744C>T (p.Thr1915Met)	rs4987117	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.68-17delA	rs752172011	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.6100C>T (p.Arg2034Cys)	rs1799954	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.4563A>G (p.Leu1521=)	rs206075	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.6513G>C (p.Val2171=)	rs206076	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.9738C>T (p.Ala3246=)	rs80359811	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.7397C= (p.Ala2466=)	rs169547	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.9257-16T>C	rs11571818	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.9976A>T (p.Lys3326Ter)	rs11571833	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.1788T>C (p.Asp596=)	rs11571642	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.4068G>A (p.Leu1356=)	rs28897724	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.8830A>T (p.Ile2944Phe)	rs4987047	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.67+17T>C	rs767648965	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.8487+47C>T	rs11571744	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.3575T>G (p.Phe1192Cys)	rs80358606	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.8487+19A>G	rs11571743	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.7319A>G (p.His2440Arg)	rs4986860	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.5199C>T (p.Ser1733=)	rs28897734	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.9730G>A (p.Val3244Ile)	rs11571831	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.5418A>G (p.Glu1806=)	rs34351119	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.3264T>C (p.Pro1088=)	rs36060526	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.7017G>C (p.Lys2339Asn)	rs45574331	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.3495T>C (p.His1165=)	rs776655838	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.516+14C>T	rs182828913	BRCA2	Benign	Not
+NM_000059.3(BRCA2):c.4258G>T (p.Asp1420Tyr)	rs28897727	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.6347A>G (p.His2116Arg)	rs55953736	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.8460A>C (p.Val2820=)	rs9590940	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.516+21A>T	rs11571622	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.9292T>C (p.Tyr3098His)	rs41293521	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.6531T>A (p.Ile2177=)	rs587780658	BRCA2	Likely_benign	Likely_benign
+0	32931853	0	0	Not
+NM_000059.3(BRCA2):c.517-19C>T	rs11571623	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.6675A>G (p.Thr2225=)	rs28897741	BRCA2	Likely_benign	Likely_benign
+NM_000059.3(BRCA2):c.4090A>C (p.Ile1364Leu)	rs56248502	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.5640T>G (p.Asn1880Lys)	rs11571657	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.3516G>A (p.Ser1172=)	rs1799952	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.4686A>G (p.Gln1562=)	rs28897730	BRCA2	Likely_benign	Likely_benign
+NM_000059.3(BRCA2):c.8850G>T (p.Lys2950Asn)	rs28897754	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.6220C>A (p.His2074Asn)	rs34309943	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.6323G>A (p.Arg2108His)	rs35029074	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.8488-19G>A	rs398122607	BRCA2	Likely_benign	Not
+NM_000059.3(BRCA2):c.-11C>T	rs76874770	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.3568C>T (p.Arg1190Trp)	rs80358604	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.9454G>A (p.Glu3152Lys)	rs80359218	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.9699_9702delTATG (p.Cys3233Trpfs)	rs80359775	BRCA2	Pathogenic	Pathogenic
+NM_000059.3(BRCA2):c.1938C>T (p.Ser646=)	rs28897711	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.4584C>T (p.Ser1528=)	rs80359788	BRCA2	Likely_benign	Likely_benign
+NM_000059.3(BRCA2):c.1151C>T (p.Ser384Phe)	rs41293475	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.125A>G (p.Tyr42Cys)	rs4987046	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.7626G>A (p.Thr2542=)	rs61754138	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.2946A>G (p.Ile982Met)	rs80358541	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.6877T>C (p.Phe2293Leu)	rs80358912	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.68-7T>A	rs81002830	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.425+33A>G	rs200065709	BRCA2	Benign/Likely_benign	Not
+NM_000059.3(BRCA2):c.2803G>A (p.Asp935Asn)	rs28897716	BRCA2	Benign/Likely_benign	Not
+NM_000059.3(BRCA2):c.2524G>C (p.Val842Leu)	rs587782454	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+0	32900202	0	0	Not
+NM_000059.3(BRCA2):c.10110G>A (p.Arg3370=)	rs28897762	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.1141G>A (p.Asp381Asn)	rs398122723	BRCA2	Likely_benign	Not
+NM_000059.3(BRCA2):c.796T>C (p.Phe266Leu)	rs587782433	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.9493A>G (p.Thr3165Ala)	rs587782568	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.5312G>A (p.Gly1771Asp)	rs80358755	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.6290C>T (p.Thr2097Met)	rs80358866	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.7806-40A>G	rs9590939	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.1910-43T>C	rs116486565	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.3869G>A (p.Cys1290Tyr)	rs41293485	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.9275A>G (p.Tyr3092Cys)	rs80359195	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+0	32899176	0	0	Not
+0	32900212	0	0	Not
+0	32954124	0	0	Not
+0	32969121	0	0	Not
+NM_000059.3(BRCA2):c.1275A>G (p.Glu425=)	rs34355306	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.1574C>G (p.Thr525Ser)	rs397507271	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.971G>A (p.Arg324Lys)	rs397507435	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.8420C>T (p.Ser2807Leu)	rs55763607	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.956A>C (p.Asn319Thr)	rs55939572	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.1838T>G (p.Leu613Arg)	rs587780646	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.8603A>G (p.Lys2868Arg)	rs759784406	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.4127G>T (p.Gly1376Val)	rs780458959	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.5014T>C (p.Tyr1672His)	rs781671762	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.9116C>T (p.Pro3039Leu)	rs80359167	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.9455A>G (p.Glu3152Gly)	rs80359219	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.428C>G (p.Pro143Arg)	rs80359442	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.7435+6G>A	rs81002852	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.1792A>G (p.Thr598Ala)	rs28897710	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.1763A>G (p.Asn588Ser)	rs373400041	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+0	32900209	0	0	Not
+0	32913114	0	0	Not
+0	32915357	0	0	Not
+0	32918651	0	0	Not
+0	32970991	0	0	0
+NM_000059.3(BRCA2):c.2927C>T (p.Ser976Phe)	rs11571656	BRCA2	Likely_benign	Not
+NM_000059.3(BRCA2):c.8503T>C (p.Ser2835Pro)	rs11571746	BRCA2	Benign/Likely_benign	Not
+NM_000059.3(BRCA2):c.2926T>A (p.Ser976Thr)	rs144862123	BRCA2	Likely_benign	Not
+NM_000059.3(BRCA2):c.7976+23C>T	rs183623188	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.3479G>A (p.Arg1160Lys)	rs183920365	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.2786T>C (p.Leu929Ser)	rs2227943	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.2960A>T (p.Asn987Ile)	rs2227944	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.631+25C>T	rs367871824	BRCA2	Benign/Likely_benign	Not
+NM_000059.3(BRCA2):c.5474C>T (p.Ala1825Val)	rs397507352	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.5893C>T (p.Leu1965Phe)	rs398122542	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.7637C>T (p.Ser2546Phe)	rs398122586	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.9634G>C (p.Gly3212Arg)	rs55775473	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.6560C>T (p.Pro2187Leu)	rs56019712	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.10121C>T (p.Thr3374Ile)	rs56309455	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.7188G>T (p.Leu2396Phe)	rs587780871	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.6013G>T (p.Asp2005Tyr)	rs587781760	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.7008-25C>T	rs751803680	BRCA2	Likely_benign	Not
+NM_000059.3(BRCA2):c.9648+18C>G	rs752904457	BRCA2	Likely_benign	Not
+NM_000059.3(BRCA2):c.4530C>T (p.Pro1510=)	rs757731214	BRCA2	Likely_benign	Likely_benign
+NM_000059.3(BRCA2):c.10045A>G (p.Thr3349Ala)	rs80358387	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.2771A>T (p.Asn924Ile)	rs80358530	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.6338A>G (p.Asn2113Ser)	rs80358874	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.6413T>A (p.Val2138Asp)	rs80358877	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.6748A>G (p.Thr2250Ala)	rs80358899	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.6848C>A (p.Pro2283His)	rs80358910	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.8972G>A (p.Arg2991His)	rs80359150	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.9086C>T (p.Ala3029Val)	rs80359162	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.9586A>G (p.Lys3196Glu)	rs80359228	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.9113_9115dupTAC (p.Leu3038_Pro3039insLeu)	rs80359749	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.517-11T>C	rs81002828	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+0	32905024	0	0	Not
+NM_000059.3(BRCA2):c.1909+9_1909+10delGT	32907531	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+0	32907573	0	0	Not
+NM_000059.3(BRCA2):c.682-30A>C	rs11571636	BRCA2	Benign	Not
+0	32906388	0	0	Not
+0	32911496	0	0	Not
+0	32972254	0	0	Not
+NM_000059.3(BRCA2):c.2538A>C (p.Ser846=)	rs11571654	BRCA2	Benign	Benign/Little_Clinical_Significance
+0	rs181968651	0	0	Not
+NM_000059.3(BRCA2):c.2138A>T (p.Gln713Leu)	rs55816687	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.9235G>A (p.Val3079Ile)	rs55933907	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.793+18T>C	rs567889781	BRCA2	Likely_benign	Not
+NM_000059.3(BRCA2):c.1783C>T (p.His595Tyr)	rs587781906	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.848T>C (p.Ile283Thr)	rs730881507	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.1798T>C (p.Tyr600His)	rs75419644	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.10053T>A (p.Ala3351=)	rs754254199	BRCA2	Likely_benign	Likely_benign
+NM_000059.3(BRCA2):c.10053T>C (p.Ala3351=)	rs754254199	BRCA2	Likely_benign	Likely_benign
+NM_000059.3(BRCA2):c.2125C>T (p.Leu709=)	rs80358489	BRCA2	Likely_benign	Likely_benign
+NM_000059.3(BRCA2):c.2561A>G (p.Asn854Ser)	rs80358520	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.2657A>G (p.Asn886Ser)	rs80358526	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.3032C>G (p.Thr1011Arg)	rs80358548	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.3073A>G (p.Lys1025Glu)	rs80358550	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.3814A>G (p.Met1272Val)	rs80358624	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.2588dupA (p.Asn863Lysfs)	rs80359335	BRCA2	Pathogenic	Pathogenic
+NM_000059.3(BRCA2):c.2808_2811del (p.Ala938Profs)	rs80359351	BRCA2	Pathogenic	Likely_benign
+0	32890570	0	0	Not
+0	32893487	0	0	Not
+0	32900790	0	0	Not
+0	32906927	0	0	Not
+0	32911127	0	0	Not
+0	32914908	0	0	Not
+0	32932110	0	0	Not
+0	32937635	0	0	Not
+0	32944722	0	0	Not
+0	32945047	0	0	Not
+0	32953515	0	0	Not
+0	32954093	0	0	Not
+0	32954095	0	0	Not
+0	32954105	0	0	Not
+0	32954302	0	0	Not
+0	32969112	0	0	Not
+0	32971210	0	0	Not
+0	32972566	0	0	Not
+NM_000059.3(BRCA2):c.9649-13A>G	rs1057520914	BRCA2	Likely_benign	Not
+NM_000059.3(BRCA2):c.6415_6416delGAinsAT (p.Glu2139Ile)	rs1064795067	BRCA2	Uncertain_significance	Not
+0	rs113433416	0	0	Not
+NM_000059.3(BRCA2):c.231T>G (p.Thr77=)	rs114446594	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.6275_6276delTT (p.Leu2092Profs)	rs11571658	BRCA2	Pathogenic	Pathogenic
+NM_000059.3(BRCA2):c.5683G>A (p.Glu1895Lys)	rs146351301	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.6057C>T (p.Asn2019=)	rs147961615	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.5341G>A (p.Asp1781Asn)	rs183478654	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.918T>C (p.Asp306=)	rs184408918	BRCA2	Likely_benign	Likely_benign
+NM_000059.3(BRCA2):c.316+12A>G	rs186419778	BRCA2	Benign	Not
+NM_000059.3(BRCA2):c.9222A>G (p.Leu3074=)	rs200635661	BRCA2	Likely_benign	Likely_benign
+NM_000059.3(BRCA2):c.631+43G>T	rs276174869	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.198A>G (p.Gln66=)	rs28897700	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.223G>C (p.Ala75Pro)	rs28897701	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.8182G>A (p.Val2728Ile)	rs28897749	BRCA2	Benign/Likely_benign	Not
+NM_000059.3(BRCA2):c.9038C>T (p.Thr3013Ile)	rs28897755	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.2817C>T (p.Thr939=)	rs367921107	BRCA2	Likely_benign	Likely_benign
+NM_000059.3(BRCA2):c.6960G>A (p.Leu2320=)	rs373134168	BRCA2	Likely_benign	Likely_benign
+NM_000059.3(BRCA2):c.9253A>C (p.Thr3085Pro)	rs397507423	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.5660C>T (p.Thr1887Met)	rs397507795	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.6202dupA (p.Ile2068Asnfs)	rs397507833	BRCA2	Pathogenic	Not
+NM_000059.3(BRCA2):c.7142delC (p.Pro2381Hisfs)	rs398122576	BRCA2	Pathogenic	Not
+NM_000059.3(BRCA2):c.7661G>A (p.Ser2554Asn)	rs398122588	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.9496G>A (p.Val3166Ile)	rs398122615	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.8942A>G (p.Glu2981Gly)	rs398122716	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.3268A>G (p.Met1090Val)	rs398122760	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.3401G>C (p.Ser1134Thr)	rs398122764	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.7021C>T (p.Arg2341Cys)	rs41293505	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.3173A>G (p.Lys1058Arg)	rs431825302	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.7073C>G (p.Ser2358Cys)	rs431825349	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.2919G>A (p.Ser973=)	rs45525041	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.7150C>A (p.Gln2384Lys)	rs55977008	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.9875C>T (p.Pro3292Leu)	rs56121817	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.5879G>A (p.Cys1960Tyr)	rs56157628	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.6131G>C (p.Gly2044Ala)	rs56191579	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.6853A>G (p.Ile2285Val)	rs56272235	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.2490C>T (p.Asn830=)	rs56331088	BRCA2	Likely_benign	Likely_benign
+NM_000059.3(BRCA2):c.1096T>G (p.Leu366Val)	rs587779357	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.7317A>G (p.Gly2439=)	rs587780660	BRCA2	Likely_benign	Likely_benign
+NM_000059.3(BRCA2):c.8332-6G>T	rs587780872	BRCA2	Benign/Likely_benign	Not
+NM_000059.3(BRCA2):c.9234C>T (p.Val3078=)	rs587782428	BRCA2	Likely_benign	Pathogenic
+NM_000059.3(BRCA2):c.5228G>A (p.Ser1743Asn)	rs587782714	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.9501+3A>T	rs61757642	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.7126G>C (p.Ala2376Pro)	rs730881552	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.9198G>C (p.Gln3066His)	rs745758977	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.9409A>G (p.Thr3137Ala)	rs746036918	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.1032T>C (p.Ser344=)	rs746783617	BRCA2	Likely_benign	Likely_benign
+NM_000059.3(BRCA2):c.8547G>A (p.Lys2849=)	rs749039580	BRCA2	Likely_benign	Likely_benign
+NM_000059.3(BRCA2):c.773A>G (p.Gln258Arg)	rs749729890	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.9468A>G (p.Gln3156=)	rs753503094	BRCA2	Likely_benign	Likely_benign
+NM_000059.3(BRCA2):c.4253T>C (p.Ile1418Thr)	rs754119978	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.9829C>T (p.Leu3277=)	rs757664122	BRCA2	Likely_benign	Likely_benign
+NM_000059.3(BRCA2):c.6691G>A (p.Ala2231Thr)	rs758379999	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.4110C>T (p.Gly1370=)	rs758430181	BRCA2	Likely_benign	Likely_benign
+NM_000059.3(BRCA2):c.90T>C (p.Asn30=)	rs760655471	BRCA2	Likely_benign	Likely_benign
+NM_000059.3(BRCA2):c.7349A>T (p.Asn2450Ile)	rs761505767	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.4526A>G (p.Gln1509Arg)	rs764435740	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.181C>G (p.Leu61Val)	rs771011731	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.324T>C (p.Asn108=)	rs772010158	BRCA2	Likely_benign	Likely_benign
+NM_000059.3(BRCA2):c.5988A>G (p.Ala1996=)	rs773045221	BRCA2	Likely_benign	Likely_benign
+NM_000059.3(BRCA2):c.6331A>G (p.Lys2111Glu)	rs773211804	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.8592C>T (p.Ala2864=)	rs776881072	BRCA2	Likely_benign	Likely_benign
+NM_000059.3(BRCA2):c.3714G>A (p.Val1238=)	rs780000105	BRCA2	Likely_benign	Likely_benign
+NM_000059.3(BRCA2):c.8979A>C (p.Ser2993=)	rs781452016	BRCA2	Likely_benign	Likely_benign
+NM_000059.3(BRCA2):c.1598C>T (p.Thr533Ile)	rs781763239	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.1343G>A (p.Arg448His)	rs80358423	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.1564G>C (p.Gly522Arg)	rs80358442	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.2224C>T (p.Gln742Ter)	rs80358494	BRCA2	Pathogenic	Pathogenic
+NM_000059.3(BRCA2):c.280C>T (p.Pro94Ser)	rs80358531	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.3245A>G (p.Lys1082Arg)	rs80358569	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.3697G>A (p.Ala1233Thr)	rs80358613	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.3999C>G (p.Asn1333Lys)	rs80358649	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.4061C>T (p.Thr1354Met)	rs80358656	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.4316C>A (p.Ala1439Asp)	rs80358667	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.5503A>G (p.Asn1835Asp)	rs80358771	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.5741G>C (p.Ser1914Thr)	rs80358801	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.7057G>C (p.Gly2353Arg)	rs80358935	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.7534C>T (p.Leu2512Phe)	rs80358980	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.7559G>A (p.Arg2520Gln)	rs80358982	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.8362_8363delTG (p.Trp2788Valfs)	rs80359079	BRCA2	Pathogenic	Not
+NM_000059.3(BRCA2):c.8377G>A (p.Gly2793Arg)	rs80359082	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.8525G>A (p.Arg2842His)	rs80359105	BRCA2	Benign	Benign/Little_Clinical_Significance
+NM_000059.3(BRCA2):c.9104A>C (p.Tyr3035Ser)	rs80359165	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.2927_2929delCCT (p.Ser976del)	rs80359363	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.2T>G (p.Met1Arg)	rs80359418	BRCA2	Pathogenic	Not
+NM_000059.3(BRCA2):c.4130delA (p.Asn1377Thrfs)	rs80359428	BRCA2	Pathogenic	Not
+NM_000059.3(BRCA2):c.5542delA (p.Ser1848Valfs)	rs80359519	BRCA2	Pathogenic	Pathogenic
+NM_000059.3(BRCA2):c.658_659delGT (p.Val220Ilefs)	rs80359604	BRCA2	Pathogenic	Pathogenic
+NM_000059.3(BRCA2):c.516+18T>C	rs81002834	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.426-37T>A	rs81002859	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.6842-19_6842-18delAT	rs81002865	BRCA2	Uncertain_significance	Not
+NM_000059.3(BRCA2):c.9501+9A>C	rs81002867	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.8953+16C>T	rs81002892	BRCA2	Conflicting_interpretations_of_pathogenicity	Not
+NM_000059.3(BRCA2):c.5630delA (p.Asn1877Thrfs)	rs876660636	BRCA2	Pathogenic	Pathogenic
+NM_000059.3(BRCA2):c.9686C>T (p.Pro3229Leu)	rs878853620	BRCA2	Uncertain_significance	Pathogenic

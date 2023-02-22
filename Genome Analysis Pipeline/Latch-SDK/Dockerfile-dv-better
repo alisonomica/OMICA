@@ -1,0 +1,7 @@
+FROM 812206152185.dkr.ecr.us-west-2.amazonaws.com/omica-dv:v0.1.0
+
+RUN python3 -m pip uninstall -y flaightkit
+RUN python3 -m pip install --upgrade lytekit latch
+
+COPY wf /root/wf
+WORKDIR /root

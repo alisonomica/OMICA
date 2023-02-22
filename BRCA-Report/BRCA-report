@@ -1,0 +1,89 @@
+# BRCA report using data from BRCA Exchange (http://brcaexchange.org)
+# Objective: Compare genomic variants between BRCA Exchange and studied individual in order to report possible pathogenic variants in the studied individual.
+# Technique: Variant annotation using VEP, comparison in bash script.
+# Input: VCF file(s)
+# Output: Report with clinical significance of variants.
+
+# Requires installation of VEP http://www.ensembl.org/info/docs/tools/vep/index.html and bcftools
+
+#### Public variants ####
+
+# BRCA Exchange table (saved as variants.tsv) is a .tsv with 402 columns
+head -1 variants.tsv | tr '\t' '\n' | wc -l)
+
+# To extract Genomic HGVS 38, and Pathogenicity Expert (other columns can be added)
+cut -f 376,371,372 variants.tsv > HGVS_BRCA.txt
+
+# Extract only HGVS 38 to feed VEP (change to rsID)
+# It takes around 8 hours to finish, but this process is only done only once in a while
+cut -f1 HGVS_BRCA.txt > HGVS_38_input_vep.txt
+
+# Match HGVS to its rsID with VEP (in this case VEP is installed in anaconda3 bin)
+../anaconda3/bin/vep --buffer_size 5000 --check_existing --distance 5000 --species homo_sapiens --symbol --input_file HGVS_38_input_vep.txt \
+--output_file HGVS_outvep.txt --cache --format hgvs --assembly GRCh38
+
+# Try Variant Recoder of Ensembl! https://www.ensembl.org/info/docs/tools/vep/recoder/index.html (NOT DONE)
+
+
+# Keep HGVS_ID, rsID, symbol, and pathogenicity
+cut -f 1,13,14 HGVS_outvep.txt > aux1.txt
+echo "$(tail -n +49 aux.txt)" > aux2.txt
+cut -f 1,2 aux1.txt > aux4.txt
+cut -f3 aux1.txt | awk -F '";"' 'match($0,/SYMBOL=[^;]*/){print substr($0,RSTART+7,RLENGTH-7)}' > aux3.txt
+cut -f3 aux1.txt | awk -F '";"' 'match($0,/CLIN_SIG=[^;]*/){print substr($0,RSTART+9,RLENGTH-9)}' > aux5.txt
+paste -d "\t" aux4.txt aux3.txt aux5.txt > hgvs_rsID_symb_clinsig.txt
+# rm aux*.txt
+
+# Match HGVS in hgvs_rsID_symb_clinsig.txt with Path_expert in HGVS_outvep.txt
+awk 'NF<4{ a=""; for(i=1;i<=4-NF;i++){a=a"NA " }$0=$0" "a}1' hgvs_rsID_symb_clinsig.txt | sed 's/NA/\-/g' > aux6.txt
+awk 'NR==FNR{a[$1]=$3;next}{print $0,a[$1]}' HGVS_BRCA.txt aux6.txt > hgvs_rsID_symb_clinsig_patho.txt
+
+# Concatenate variants from Juan Carlos article (Fernández-Lopez, J.C., Romero-Córdoba, S., Rebollar-Vega, R. et al. 
+# Population and breast cancer patients’ analysis reveals the diversity of genomic variation of the BRCA genes in the
+# Mexican population. Hum Genomics 13, 3 (2019). https://doi.org/10.1186/s40246-018-0188-9) named BRCA1.txt and BRCA2.txt
+cat BRCA1.txt BRCA2.txt hgvs_rsID_symb_clinsig_patho_nodup.txt > allBRCA_rsID_symb_clinsig_patho.txt
+
+# Remove duplicates
+awk '!seen[$2]++' allBRCA_rsID_symb_clinsig_patho.txt > all_hgvs_rsID_symb_clinsig_patho_nodup.txt
+
+# Count number of variants
+wc -l all_hgvs_rsID_symb_clinsig_patho_nodup.txt
+
+##### Individual variants ####
+
+# Filter VCF of population by PASS and remove 0/0 variants (possibly all the remaining variants without 0/0 will have PASS)
+grep -v "0[/|]0" < HG00109.exome.2011.bam.vcf > filtered.vcf
+bcftools view -f PASS filtered.vcf > HG_filtered_pass.vcf
+
+## Maybe is better to run in vfc2maf than VEP (run only one process)
+perl vcf2maf.pl --input-vcf ../Viva_test/results/HG_filtered_pass.vcf --output-maf ../Viva_test/HG00109.vep.maf --vep-path ../anaconda3/bin/ --vep-data ../.vep
+
+# OR Annotate population VCF with VEP
+../anaconda3/bin/vep --check_existing --species homo_sapiens --symbol --input_file PruebaCons_NA19654.output.vcf.gz \
+--output_file NA19654_outvep.tsv --cache --tab --fields “Allele,Consequence,SYMBOL,Existing_variation,CLIN_SIG,SIFT,PolyPhen”
+
+# Extract only BRCA genes
+grep 'BRCA1\|BRCA2' NA19654_outvep.vcf > NA19654_BRCAonly.txt
+
+# Extract those rsID from VEP *Check which method is for which output file of above process*
+cut -f8 NA19654_BRCAonly.txt | cut -d '|' -f4 | awk 'match($0,/[^,]*/){print substr($0,RSTART+0,RLENGTH-0)}' | sed 's/&/\n/g' | awk 'NF' > NA19654_BRCArsID.txt
+
+# OR from annotated VCF *Check which method is for which output file of above process*
+cut -f8 NA19654_BRCAonly.txt | cut -d '|' -f18 | awk 'match($0,/[^,]*/){print substr($0,RSTART+0,RLENGTH-0)}' | sed 's/&/\n/g' | awk 'NF' > NA19654_BRCArsID.txt
+
+# Keep also allele, consequence, symbol, clin_sig, sift score, and polyphen score, and GT
+cut -f8 HG_BRCAonly.txt | cut -d '|' -f 1,2,4,18,37,38,58 | sed 's/|/\t/g' | sed 's/CSQ=//g' |
+awk -F"\t" '{ x = $4; for (i = 8; i <= NF; i++) { x = x " " $i; } split(x, a, "&"); for (i in a) { print a[i] "\t" $1, $2, $3, $4, $5, $6, $7, $8; } }' |
+sed 's/ /\t/g' | cut -f 1,2,3,4,6,7,8,9 | sed 's/-/N/g'  > HG_BRCArsID_info.txt
+
+# Compare BRCA Exchange and Individual rsIDs and keep matching
+awk '{print $1}' HG_BRCArsID_info.txt | grep -f - ../../BRCA/all_hgvs_rsID_symb_clinsig_patho_nodup.txt > inind_indb.txt
+
+# OR *CHECK*
+#awk '{print $2}' ../../BRCA/all_hgvs_rsID_symb_clinsig_patho_nodup.txt | grep -f - HG_BRCArsID_info.txt
+
+# Keep non matching
+awk '{print $2}' ../../BRCA/all_hgvs_rsID_symb_clinsig_patho_nodup.txt | grep -vf - HG_BRCArsID_info.txt > inind_notdb.txt
+
+
+

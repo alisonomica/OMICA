@@ -1,0 +1,159 @@
+NM_007294.3(BRCA1):c.4837A>G (p.Ser1613Gly)	rs1799966	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.2082C>T (p.Ser694=)	rs1799949	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.3548A>G (p.Lys1183Arg)	rs16942	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.4308T>C (p.Ser1436=)	rs1060915	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.3113A>G (p.Glu1038Gly)	rs16941	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.2311T>C (p.Leu771=)	rs16940	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007299.3(BRCA1):c.441+36_441+50delCTTTTCTTTTTTTTT	41256089	BRCA1	Benign	0
+NM_007294.3(BRCA1):c.442-34C>T	rs799923	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.2077G>A (p.Asp693Asn)	rs4986850	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.1067A>G (p.Gln356Arg)	rs1799950	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.114G>A (p.Lys38=)	rs1800062	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.3119G>A (p.Ser1040Asn)	rs4986852	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.4185+12_4185+13delGT	rs138447886	BRCA1	Benign	Not
+NM_007294.3(BRCA1):c.4956G>A (p.Met1652Ile)	rs1799967	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.*36C>G	rs3092995	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.3418A>G (p.Ser1140Gly)	rs2227945	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.4535G>T (p.Ser1512Ile)	rs1800744	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.2351C>T (p.Ser784Leu)	rs55914168	BRCA1	Conflicting_interpretations_of_pathogenicity	Not
+NM_007294.3(BRCA1):c.4358-2720G>A	rs183331660	BRCA1	Likely_benign	Not
+NM_007294.3(BRCA1):c.212+23T>A	rs8176128	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.839C>G (p.Ala280Gly)	rs80357199	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.3083G>A (p.Arg1028His)	rs80357459	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.2458A>G (p.Lys820Glu)	rs56082113	BRCA1	Benign	Benign/Little_Clinical_Significance
+0	41258573	0	0	Not
+NM_007294.3(BRCA1):c.4039A>G (p.Arg1347Gly)	rs28897689	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.987T>C (p.Asn329=)	41246561	BRCA1	Likely_benign	Likely_benign
+NM_007294.3(BRCA1):c.81-17C>G	41267813	BRCA1	Conflicting_interpretations_of_pathogenicity	Not
+NM_007294.3(BRCA1):c.1971A>G (p.Gln657=)	rs28897679	BRCA1	Benign	Benign/Little_Clinical_Significance
+0	41197849	0	0	Not
+NM_007294.3(BRCA1):c.5074+23A>G	41219602	BRCA1	Likely_benign	Not
+NM_007294.3(BRCA1):c.3699A>G (p.Lys1233=)	41243849	BRCA1	Likely_benign	Likely_benign
+NM_007294.3(BRCA1):c.1470A>G (p.Pro490=)	41246078	BRCA1	Likely_benign	Likely_benign
+0	41256327	0	0	Not
+NM_007294.3(BRCA1):c.3024G>A (p.Met1008Ile)	rs1800704	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.2521C>T (p.Arg841Trp)	rs1800709	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.5158A>G (p.Thr1720Ala)	rs56195342	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.591C>T (p.Cys197=)	rs1799965	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.981A>G (p.Thr327=)	rs1800063	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.2733A>G (p.Gly911=)	rs1800740	BRCA1	Likely_benign	Likely_benign
+NM_007294.3(BRCA1):c.5406+8T>C	rs55946644	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.3823A>G (p.Ile1275Val)	rs80357280	BRCA1	Conflicting_interpretations_of_pathogenicity	Not
+NM_007294.3(BRCA1):c.5468-10C>A	rs8176316	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.3600G>T (p.Gln1200His)	rs56214134	BRCA1	Benign/Likely_benign	Not
+NM_007294.3(BRCA1):c.21C>T (p.Arg7=)	rs149402012	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.3708T>G (p.Asn1236Lys)	rs28897687	BRCA1	Conflicting_interpretations_of_pathogenicity	Not
+NM_007294.3(BRCA1):c.2167A>G (p.Asn723Asp)	rs4986845	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.1511G>A (p.Arg504His)	rs56272539	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.3296C>T (p.Pro1099Leu)	rs80357201	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.301+8T>C	rs80358101	BRCA1	Conflicting_interpretations_of_pathogenicity	Not
+NM_007294.3(BRCA1):c.81-14C>G	rs80358006	BRCA1	Likely_benign	Not
+NM_007294.3(BRCA1):c.3640G>A (p.Glu1214Lys)	rs80356923	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.5468-10_5468-9delCT	41197827	BRCA1	Conflicting_interpretations_of_pathogenicity	Not
+NM_007294.3(BRCA1):c.1486C>T (p.Arg496Cys)	rs28897676	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.4358-10C>T	rs80358111	BRCA1	Benign/Likely_benign	Not
+NM_007294.3(BRCA1):c.4185+29C>T	41242932	BRCA1	Uncertain_significance	Not
+0	41267822	0	0	Not
+NM_007294.3(BRCA1):c.4812A>G (p.Gln1604=)	rs28897693	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.4132G>A (p.Val1378Ile)	rs28897690	BRCA1	Conflicting_interpretations_of_pathogenicity	Not
+NM_007294.3(BRCA1):c.5328C>T (p.Pro1776=)	41203084	BRCA1	Likely_benign	Likely_benign
+NM_007294.3(BRCA1):c.4949T>C (p.Met1650Thr)	41222982	BRCA1	Uncertain_significance	Not
+0	41234394	0	0	Not
+NM_007294.3(BRCA1):c.4332T>C (p.Asn1444=)	41234446	BRCA1	Likely_benign	Likely_benign
+NM_007294.3(BRCA1):c.3717T>A (p.Ser1239=)	41243831	BRCA1	Likely_benign	Likely_benign
+0	41244117	0	0	Not
+NM_007294.3(BRCA1):c.2634A>G (p.Ala878=)	41244914	BRCA1	Likely_benign	Likely_benign
+NM_007294.3(BRCA1):c.2334C>T (p.Gly778=)	41245214	BRCA1	Likely_benign	Likely_benign
+0	41245568	0	0	Not
+NM_007294.3(BRCA1):c.1397G>A (p.Arg466Gln)	41246151	BRCA1	Conflicting_interpretations_of_pathogenicity	Not
+NM_007294.3(BRCA1):c.1243G>A (p.Val415Ile)	41246305	BRCA1	Uncertain_significance	Not
+NM_007294.3(BRCA1):c.768G>A (p.Arg256=)	41246780	BRCA1	Likely_benign	Likely_benign
+NM_007294.3(BRCA1):c.1427A>G (p.His476Arg)	rs55720177	BRCA1	Conflicting_interpretations_of_pathogenicity	Not
+NM_007294.3(BRCA1):c.4682C>T (p.Thr1561Ile)	rs56158747	BRCA1	Conflicting_interpretations_of_pathogenicity	Not
+NM_007294.3(BRCA1):c.3541G>A (p.Val1181Ile)	rs56336919	BRCA1	Conflicting_interpretations_of_pathogenicity	Not
+0	41246898	0	0	Not
+NM_007294.3(BRCA1):c.671-18A>T	41246895	BRCA1	Likely_benign	Not
+0	41243074	0	0	Not
+0	41197831	0	0	Not
+0	41197866	0	0	Not
+0	41209201	0	0	Not
+0	41215338	0	0	Not
+NM_007294.3(BRCA1):c.5155G>T (p.Val1719Leu)	41215388	BRCA1	Uncertain_significance	Not
+NM_007294.3(BRCA1):c.5152+20T>A	41215871	BRCA1	Benign/Likely_benign	Not
+0	41215973	0	0	Not
+NM_007294.3(BRCA1):c.5036T>C (p.Leu1679Pro)	41219663	BRCA1	Uncertain_significance	Not
+0	41219748	0	0	Not
+NM_007294.3(BRCA1):c.4790C>A (p.Thr1597Asn)	41223141	BRCA1	Uncertain_significance	Not
+NM_007294.3(BRCA1):c.4675+11A>G	41226337	BRCA1	Likely_benign	Not
+0	41228470	0	0	Not
+0	41228662	0	0	Not
+0	41231316	0	0	Not
+0	41234544	0	0	Not
+NM_007294.3(BRCA1):c.4220T>G (p.Leu1407Arg)	41234558	BRCA1	Uncertain_significance	Not
+0	41234585	0	0	Not
+NM_007294.3(BRCA1):c.3815A>G (p.Asn1272Ser)	41243733	BRCA1	Uncertain_significance	Not
+NM_007294.3(BRCA1):c.3738C>T (p.Thr1246=)	41243810	BRCA1	Likely_benign	Likely_benign
+NM_007294.3(BRCA1):c.3645C>T (p.Asn1215=)	41243903	BRCA1	Likely_benign	Not
+NM_007294.3(BRCA1):c.3401A>T (p.Glu1134Val)	41244147	BRCA1	Uncertain_significance	Not
+0	41244385	0	0	Not
+NM_007294.3(BRCA1):c.2931A>G (p.Pro977=)	41244617	BRCA1	Likely_benign	Likely_benign
+NM_007294.3(BRCA1):c.2840A>G (p.Lys947Arg)	41244708	BRCA1	Uncertain_significance	Not
+0	41245176	0	0	Not
+NM_007294.3(BRCA1):c.2352G>A (p.Ser784=)	41245196	BRCA1	Likely_benign	Likely_benign
+NM_007294.3(BRCA1):c.2153T>G (p.Leu718Arg)	41245395	BRCA1	Uncertain_significance	Not
+0	41245450	0	0	Not
+NM_007294.3(BRCA1):c.1947G>A (p.Glu649=)	41245601	BRCA1	Likely_benign	Likely_benign
+NM_007294.3(BRCA1):c.1856A>G (p.His619Arg)	41245692	BRCA1	Uncertain_significance	Not
+NM_007294.3(BRCA1):c.1746G>A (p.Thr582=)	41245802	BRCA1	Likely_benign	Likely_benign
+0	41245819	0	0	Not
+NM_007294.3(BRCA1):c.1713A>G (p.Ile571Met)	41245835	BRCA1	Uncertain_significance	Not
+NM_007294.3(BRCA1):c.1617G>A (p.Thr539=)	41245931	BRCA1	Likely_benign	Likely_benign
+NM_007294.3(BRCA1):c.1524T>C (p.Pro508=)	41246024	BRCA1	Likely_benign	Likely_benign
+NM_007294.3(BRCA1):c.1257A>T (p.Val419=)	41246291	BRCA1	Likely_benign	Likely_benign
+NM_007294.3(BRCA1):c.652T>C (p.Leu218=)	41247881	BRCA1	Likely_benign	Likely_benign
+NM_007294.3(BRCA1):c.446A>C (p.Glu149Ala)	41251893	BRCA1	Uncertain_significance	Not
+0	41251946	0	0	Not
+0	41256109	0	0	Not
+NM_007294.3(BRCA1):c.441+18C>T	41256121	BRCA1	Likely_benign	Not
+NM_007294.3(BRCA1):c.369T>A (p.Ser123=)	41256211	BRCA1	Likely_benign	Likely_benign
+0	41256270	0	0	Not
+NM_007294.3(BRCA1):c.258A>G (p.Leu86=)	41256928	BRCA1	Likely_benign	Likely_benign
+NM_007294.3(BRCA1):c.216C>G (p.Ser72Arg)	41256970	BRCA1	Uncertain_significance	Not
+0	41257020	0	0	Not
+NM_007294.3(BRCA1):c.135-3T>C	41258553	BRCA1	Uncertain_significance	Not
+0	rs180905862	0	0	Not
+NM_007294.3(BRCA1):c.736T>G (p.Leu246Val)	rs28897675	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.1487G>A (p.Arg496His)	rs28897677	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.2428A>T (p.Asn810Tyr)	rs28897682	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.5123C>A (p.Ala1708Glu)	rs28897696	BRCA1	Pathogenic	Pathogenic
+NM_007294.3(BRCA1):c.3302G>A (p.Ser1101Asn)	rs41293447	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.4327C>T (p.Arg1443Ter)	rs41293455	BRCA1	Pathogenic	Pathogenic
+NM_007294.3(BRCA1):c.5100A>G (p.Thr1700=)	rs45519437	BRCA1	Likely_benign	Likely_benign
+NM_007294.3(BRCA1):c.557C>A (p.Ser186Tyr)	rs55688530	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.1456T>C (p.Phe486Leu)	rs55906931	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.1648A>C (p.Asn550His)	rs56012641	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.4691T>C (p.Leu1564Pro)	rs56119278	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.1137T>G (p.Ile379Met)	rs56128296	BRCA1	Benign/Likely_benign	Not
+NM_007294.3(BRCA1):c.536A>G (p.Tyr179Cys)	rs56187033	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.81-13C>G	rs56328013	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.4840C>T (p.Pro1614Ser)	rs70953660	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.4729T>C (p.Ser1577Pro)	rs80356909	BRCA1	Conflicting_interpretations_of_pathogenicity	Not
+NM_007294.3(BRCA1):c.5411T>A (p.Val1804Asp)	rs80356920	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.1396C>T (p.Arg466Trp)	rs80356964	BRCA1	Conflicting_interpretations_of_pathogenicity	Not
+NM_007294.3(BRCA1):c.2591C>T (p.Ser864Leu)	rs80357003	BRCA1	Uncertain_significance	Not
+NM_007294.3(BRCA1):c.4261C>T (p.His1421Tyr)	rs80357013	BRCA1	Conflicting_interpretations_of_pathogenicity	Not
+NM_007294.3(BRCA1):c.1233T>G (p.Asp411Glu)	rs80357024	BRCA1	Conflicting_interpretations_of_pathogenicity	Not
+NM_007294.3(BRCA1):c.3848A>G (p.His1283Arg)	rs80357047	BRCA1	Conflicting_interpretations_of_pathogenicity	Not
+NM_007294.3(BRCA1):c.1712T>C (p.Ile571Thr)	rs80357159	BRCA1	Conflicting_interpretations_of_pathogenicity	Not
+NM_007294.3(BRCA1):c.4993G>A (p.Val1665Met)	rs80357169	BRCA1	Conflicting_interpretations_of_pathogenicity	Not
+NM_007294.3(BRCA1):c.4081A>C (p.Met1361Leu)	rs80357218	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.5416C>G (p.Pro1806Ala)	rs80357241	BRCA1	Conflicting_interpretations_of_pathogenicity	Not
+NM_007294.3(BRCA1):c.3929C>A (p.Thr1310Lys)	rs80357257	BRCA1	Conflicting_interpretations_of_pathogenicity	Not
+NM_007294.3(BRCA1):c.5566C>T (p.Pro1856Ser)	rs80357274	BRCA1	Conflicting_interpretations_of_pathogenicity	Not
+NM_007294.3(BRCA1):c.995G>A (p.Arg332Gln)	rs80357464	BRCA1	Conflicting_interpretations_of_pathogenicity	Not
+NM_007294.3(BRCA1):c.3648dupA (p.Ser1217Ilefs)	rs80357902	BRCA1	Pathogenic	Pathogenic
+NM_007294.3(BRCA1):c.4485-18T>A	rs80358000	BRCA1	Conflicting_interpretations_of_pathogenicity	Not
+NM_007294.3(BRCA1):c.548-17G>T	rs80358014	BRCA1	Benign	Not
+NM_007294.3(BRCA1):c.4987-20A>G	rs80358035	BRCA1	Benign	Benign/Little_Clinical_Significance
+NM_007294.3(BRCA1):c.548-13G>T	rs80358115	BRCA1	Uncertain_significance	Not
+NM_007294.3(BRCA1):c.4186-10G>A	rs80358172	BRCA1	Conflicting_interpretations_of_pathogenicity	Not
