@@ -1,4 +1,4 @@
-# Genome Analysis Pipeline Trial
+# Genome Analysis Pipeline Test
 
 The genome analysis pipeline is design to discover the genomic variants in Mexican and Latin American populations. This pipeline is an example used to analyze Illumina paired-end WGS raw data with the HG00152 sample 
 
